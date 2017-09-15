@@ -1,0 +1,1336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>
+	Question Paper
+</title><link rel="stylesheet" type="text/css" href="Question%20Paper%20ritesh_files/printstyle.css" media="print">
+    <style type="text/css">
+        .style1
+        {
+            width: 268px;
+        }
+    </style>
+<link href="Question%20Paper%20ritesh_files/ExamSystem.css" type="text/css" rel="stylesheet"><link href="Question%20Paper%20ritesh_files/Menu.css" type="text/css" rel="stylesheet"></head>
+<body ondragstart="return false" onload="setClipBoardData();"> 
+   <form name="aspnetForm" method="post" action="ObjectiveQuestionPaper.aspx" id="aspnetForm">
+<div>
+<input tabindex="0" name="ctl00_ScriptManager1_HiddenField" id="ctl00_ScriptManager1_HiddenField" value=";;AjaxControlToolkit, Version=3.5.40412.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e:en-US:065e08c0-e2d1-42ff-9483-e5c14441b311:475a4ef5:effe2a26:751cdd15:5546a2b:dfad98a5:1d3ed089:497ef277:a43b07eb:3cf12cf1" type="hidden">
+<input tabindex="0" name="__EVENTTARGET" id="__EVENTTARGET" value="" type="hidden">
+<input tabindex="0" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" type="hidden">
+<input tabindex="0" name="__VIEWSTATE" id="__VIEWSTATE" value="GuW/0k1yLniMrlHcTdHAoYx/lOCPa6G+rTwE/ndU8u2d4r+wRALegRBQC9gagX6/k7zlU8SCDq+vOeyfySXgv2KgfFrWUob7Wv/qviJwikU40VaW6pKMcEpyo0h5CLKqcjcTg6LMAvMj6HS7g/IOs31d40gGUw4X0385b5grzm1N/Bf9Wik9N4gAP+F64Si1BQ/JVivhB0CmxW5aPhmXfiAv4/6kXJskgh2ajJtZ26kslvNuBmq6SuBYh5+u881WRIHTTdlNQ+Y9IsiiO3JVNxug7pCgjjAFokpxcBwU9wJLBm/4/SjJOUgb0+TELqYkuWfxiGrPSa3Mxchv2N0ogAYd6dL0ypZ7bkE81XpXvgS+A+YePElJG0UalVnEZ3H21qceuq4ba9RNEFvyEfGEQ1mYyOEwjB9fHLKrDIvys89YEdGUUSL9k4T+iYZlCR6xjByxRwk1w9RKrMJH/3nAeUxcB6Ugks7uYTuErSzaBFHW2W6hEiU3G8cZBeEOdKus6ThELaZ24lIAERxH8c60STeu8ankPNTJyFqCsavcy8BXc7yr3oiTLBvwDspdqSH6SIhfsOGD5XFx4kYhVv/sYPaQmtK7Dn+dqgiiyg6jhPrf8qkY/VX6dPpDyxiAypBPhvyaxdtolJJMT5XwpCEMr61sgT/k78QjsXXxHu/lNw5e7UOZwfw9EHZFeOhGlZtifibWe9dUb9OV7zZa6fGjBgVxI2fiFLZTXMOkrUP4PmmsZupQbCpAfWdr9ZzON4r0McgsoxTzxSBlzApTZVLOCZsi66qrS+7OwhagFo1StSnM3G8T+Io6nqsvYD6dF/Qyv91M6PXYUYyf6retYpFDqCNHJhKkzRX9hr0eB1tzFcQqcZIIzP8jSlYyNl1sk7PztxpOKZXQYql9YC99qG8TTasKn+HtEpIgiAFtLmmWesqAvxb9PljBSgAaYSbt/+N5dQcqNPe5LOGLkykE9v8IKrbLAbaHVEPlY6UMOymkLN2bPy+for6KYzwdsZnOmkSWG2/NZB57CVg+in+d+UKbmVZg9pLDfcr4u2eYW9+VhRO3VdTepmFq0y2L+roUmKXaPzwTINOGVO/LNR2Xmkd1wdOm9+a9nko7euUIuwyIdF0MElRZsYZGamT0fizCz1erjpBRtPk5LLdVGi4LZYQjShTNq9o=" type="hidden">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="Question%20Paper%20ritesh_files/WebResource.js" type="text/javascript"></script>
+
+
+<script src="Question%20Paper%20ritesh_files/ScriptResource.js" type="text/javascript"></script>
+<script src="Question%20Paper%20ritesh_files/ScriptResource_002.js" type="text/javascript"></script>
+<script src="Question%20Paper%20ritesh_files/DemoTimer.js" type="text/javascript"></script>
+<script src="Question%20Paper%20ritesh_files/ObjectiveQuestionPaper.js" type="text/javascript"></script>
+<div>
+
+	<input tabindex="0" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="84002C40" type="hidden">
+	<input tabindex="0" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="iJxJRoJ4vctvVhJZDaNjo2PCtAU6ytW8Tm20c/oWqe1jHVaaVsuvLEZqMeU2VIVq1vWD9uvRfFDT++SVYIwEr7G5EvIXPWZLKi23dU9YumqAQJN5efchOUcXWNF3SEFV7F++OK707QYejIUx7Nos0U3L67qIMrn/yKvYsreHn1l/Rdrey7uEEPgtLWyNioVHGW5Ph0LF1fl4nMzHb2+jjSbNc9+bpqpGn31cJ67auf1iaq40uLEspN7Q+KlPZXdQCa3+wrND2DVECI2cclF7Xe2S8+QgOURsxsqQQ2aLKgS/WFCljb0fC8gfCStDkncErbyfdbcB2dK2IV4vlqMlDAT4bz8MXkuKWUr2wrthpW2pGrNw7GjeP/cjqpLNcDfcn2LKGXc0EgCd+16HvF9ihq2uBfur4DDKuQ0dWBcL0Dk6ORnDLvB0640rZvOaVm1yac2thmsirG2tkIiIysFI2bqnM3xim3n/+dkUNBqOBeILmYYesRKncwGz3KGUClW3JOo3C90kVkag28x5juO3gC5EeEwAO+1tu//z5Sqztv4sjSUsCjt7r435QBWQih6kP99W6PGN5TgWuovuqX8g5Ic0Af0X/TEaiUrrra+ceq0+sD9mcDb2QnS31vUc8n4Lor1vneBMrKfpzB30yZoZyTiXf38Q96TFGe6N2XIbGMNM4jFq1dMMD3/emizNPhiMXE4RwUdbxlVx4whPtc/suh2PN+d2ZVPI6qZGR6APWs82y/mcDmSCUg0qBn6Qw3oroiDb4PAlcIrTv2s/h/pB4JzF/NxMtuwyvpyS9gjYpfQeqfAbaFX4n0uXICFBI61iAZp7LQMJxxaRRgR6tOf4vld2SbekqE02S+XYefkiQZHTHSMt+2olHmtZc176mlIBbq7Vu0rCd5k6deZ3pY788LRaWFbx1jvyU4bD4aX8xuwZ0Ht4L6EUYUy8bNNbjOkWyPwOBFj786SqHlI1JAqPNiiy2fqEPco6/Xnh8HsN/+g01XJmaB6MeFaVR3pqNzl4pjTvvCv59bC8Hn4dUg9Iy9q431HBvplNorJvIdIYbSobk9IfsVt/u0hl8INoYoqcpMvsRQLIfVGbeVnCetetxGr7n6Gp7FmFwle3OQCdhGZb9a8CphP7zFG1/i1mDeIOuRNPYD6jQyaUAUoy1TRK2us44NMZq3pZAmsgkybdf6U2CEbGuiwzN3K/VHKikPWND0ciREu6I0a3qDIPnjZHxC3DfoYL5clnKUZwizGVOmp5uG4gWDRQDXkkP272DX5yHJVj1+tOSQ/wTc9rSeqmT8bKjFtHBqnUTHhJUq1XZQLNKqztA7BSeox9SLi4CiFgch6lJFZFjMWrUsc/V6QDf5+N1jrFo3FczcgooRcwi4xVvsyJh7EdAAL6TVtiZ6DVF8Tb/MKfXzqVSOD6Yh9n6JcpJYC3bWKG3IP/ZbgQkeIc2wNHX93mSW58LO6qT+lnJn30BY+oT9T7z/30Y3lXM6u4kBCTYbR0SvgOCphyg1nikAHFkCYv0KbHYgAtAsfYO+JHv+PVxIp6zOd/EnA3JDuOn/s3GS2U97Scqla+Ai0yRr57CMZfhp1RUBRLf7Ttx/111epBKX/d9c48sOhEa/oqnr6u4KhVNCnMEgFE5HeGlP/2ij/W8abO06ydq1MoZWd1v/JuzdCYGfAEOSELo1USdxWEqVieIsP5cSHNueigFC9jj9udJX+vffGdqgRpFvTdY1aNvr3xcb19+WaZDUS7ti+p3NA6DgNOTIGCo0AQf1Z7FY/JFmC2vFCt9pI4G6+69Sg7Xw03nowIpYoQ9p2syHWl0vWxAuoAHce4QlUAF9/IemYKY7piFy/4vSw0f2oVVKsQfkFZEqtACVjUYyliDK9SXe3+L2PgeP6ZgCVqtyShhAnrRQ0D+C9XbVi6HoTE53hdWB+Vj3asDAGbZ/PGqz51lFFvKNnV2Phe1AlEcGK6c7g7Lc8TGFUrzlxB5qck9LRgKb8rQ+L4CQCuKzYDfBl3hiPt8HsNTBpvEU/ZNdUQZW51foSaKDihrgHiEvcNkBu3K75N74MaBFWT6R12kCm9TouMyNBIAk6Q7F04zaDnY/o5zuTzlv39E47iDnzp0PwC7+zXKZlgvVP6vQwefyx3gSEcGXzQls2ylpGcoQlVUvIix7IOg6k68wgBKra5ExGfLlHrWRkFlBOOOrxxEDNXU6yQUKKc53YXvOvpU9JCAswA8tyJZcqDfob/ElEi8KvMOF40cCupyxD9y24O5TMUGaFqJ13uLNKlw2rPoRY3VvnjbF1RlbVOSFMr/UoIXZ/IgNjpY/OGXDw2jRW1xCvkpykCwL3GTwWTQZtnJxfmawJCkP6kHqMqqI7N+FkA5h7PIaYsAzQouFJfpzpH+TN6nIZea8VkCrlBcYZJvemoAHRUJo5HPUtEDS9sCwVvX6Q483l9sSxkvu8VD2W0aPqETW0dcJ43xxxOhoSHl3+C" type="hidden">
+</div>
+        <script type="text/javascript">
+
+            var timeRemaining;
+            var mins;
+            var secs;
+            var TimeOutAlertValue = 300; // Value (in seconds) for displaying last few minutes remaining alert.
+            var SessionSlidingTimeAlertValue = 900000; // Value (in milli seconds) for displaying pop up indicating session is about time out.
+            var lastClockTick;
+            var app = Sys.Application;
+            app.add_load(applicationLoadHandler);
+
+
+            function applicationLoadHandler(sender, args) {
+                var hdnIsExamStarted = $get('ctl00_hdnIsExamStarted');
+                if (hdnIsExamStarted.value == "Yes") {
+                    //Create new timer indicating remaining exam duration.
+                    // Exam time will be decremented by 1 per second
+                    $create(Demo.Timer,
+		            { enabled: true, id: "ExamRemainingTimer", interval: 1000 },
+		            { tick: OnTick }, null, null);
+
+                    // Create  the timer to check whether the session is idle for 15 mins.( timer interval is set to 15 mins).
+                    // If yes display pop up to user indicating session is about to time out.
+                    $create(Demo.Timer,
+		            { enabled: true, id: "SessionSlidingExpiryTimer", interval: SessionSlidingTimeAlertValue },
+		            { tick: SessionSlidingExpiryOnTick }, null, null);
+                }
+
+            }
+
+            function OnTick(sender, args) {
+                var minusSecond = 1;
+                //Get the hiddenField containing Ramining Exam time
+
+                if (lastClockTick != null) {
+                    //var t = (new Date(Math.abs('1472480676168.57'))) - lastClockTick;
+                    var t = (new Date()) - lastClockTick;
+                    if (Math.floor((t / 1000)) > 1) {                        
+                        minusSecond = Math.floor((t / 1000));
+                    }
+                }
+                var hdnTimeRamaining = $get('ctl00_hdnTimeRamaining');
+
+                //Decrement the value per second by by 1
+                hdnTimeRamaining.value = parseInt(hdnTimeRamaining.value) - minusSecond;
+                timeRemaining = hdnTimeRamaining.value;
+                DisplayExamTime(timeRemaining);
+
+                // If last 3 minuts are remaining, display warning messgae to candidate
+                if (timeRemaining == TimeOutAlertValue) {
+                    var btn = $get('ctl00_btnLastFewMinsAlert');
+                    RaisebuttonClickEvent(btn);
+                }
+
+
+                //If exam time outs, raise the postback event to save the candidate answers and submit exam.
+                if (timeRemaining <= 0) {
+                    // Disable timer and raise time out event.
+                    sender.set_enabled(false);
+                    var btn = $get('ctl00_btnTimeOutEventRaise');
+                    RaisebuttonClickEvent(btn);
+                }
+                //lastClockTick = new Date(Math.abs('1472480676168.57'));
+                lastClockTick = new Date();
+            }
+ 
+
+            function SessionSlidingExpiryOnTick(sender, args) {
+
+                // Raise the button event to display pop up for session time out.
+                var btn = $get('ctl00_btnSessionSlidingTimeAlert');
+                RaisebuttonClickEvent(btn);
+            }
+
+
+            // Generalized function to raise different pop ups like Last 3 minutes remaining, Session time out etc.
+            // These pop ups will be opened on different button click events. below functions will raise the button click event which will 
+            // cause pop ups to open 
+            function RaisebuttonClickEvent(btn) {           
+                //Dispatch event is used for browsers other than IE.( For Mozilla)
+                if (btn.dispatchEvent) {
+                    var e = document.createEvent("MouseEvents");
+                    e.initEvent("click", true, true);
+                   btn.dispatchEvent(e);
+               }
+                //Code for IE to raise button click event.
+                else {
+                    btn.click();
+               }
+             }
+             
+  
+                 
+           function DisplayExamTime(seconds) {
+
+               // Caluculate minutes and seconds remaining
+               mins = parseInt(timeRemaining / 60);
+               secs = parseInt(timeRemaining % 60);
+
+               //Decrement the minute by 1 after each 60 seconds.
+               if (secs == -1 && mins != 0) {
+                   mins--;
+                   secs = 59;
+               }
+
+               // To Display Timer on page
+               if (navigator.appName == "Microsoft Internet Explorer" && navigator.appName != "Netscape") {
+
+                   $get('ctl00_ExamRemainingTime').innerText = Pad(mins) + ":" + Pad(secs);
+               }
+               // Code for Mozilla to display time since .innerText  will not work
+               else {
+
+                   $get('ctl00_ExamRemainingTime').textContent = Pad(mins) + ":" + Pad(secs);
+               }
+
+               return;
+            }
+
+
+            
+            //pads the mins/secs with a 0 if its less than 10 like Time remaining "04 : 45"
+            function Pad(number)
+            {
+                if (number < 10)
+                    number = 0 + "" + number;
+                return number;
+            }
+            
+    /*--------- Code to check the browser; if not IE , redirect to error page-------------------------*/
+
+            if (navigator.appName != "Microsoft Internet Explorer" && navigator.appName != "Netscape")
+            {
+                //alert("you are not using internet explorer");
+                   window.location="error_Mozilla.html";
+               }           
+          
+
+   /*---------------------------- Code to disable right click Start-----------------------------------*/
+            function IE(e) {
+            //alert(event.button);
+                if (navigator.appName == "Microsoft Internet Explorer" && navigator.appName != "Netscape" && (event.button != "1")) {
+                    return false;
+                }
+           
+            }
+            function NS(e) {
+                if (document.layers || (document.getElementById && !document.all)) {
+                    if (e.which != "1") {
+                        return false;
+                    }
+                }
+            
+            }
+            document.onmousedown = IE; document.onmouseup = NS;
+            document.oncontextmenu = new Function("return false");
+            
+ /*---------------------------- Code to disable right click End---------------------------------------*/
+ 
+ /*---------------------------- Code to clear Clip board-----------------------------------------------*/
+ 	function setClipBoardData()
+	{
+	    //Check whether the security needs to be bypassed for the exam_instance_id
+        //If Yes, then setClipBoardData funtion will be bypassed for the employee
+	    var hdnIsVerified = $get('ctl00_hdnIsVerified');
+	    if (hdnIsVerified.value == "No")
+	    {
+	        window.setInterval("window.clipboardData.clearData()", 1);
+	    }
+	
+	}
+ 
+ /*---------------------------- Code to clear Clip board End-----------------------------------------------*/
+ 
+/*----------------------------- Code to disable BACKSPACE button --------------------------------------*/
+	// Every single key press action will call this function.
+function shouldCancelbackspace(e) 
+{
+    var key;
+    if(e)
+    {
+        key = e.which? e.which : e.keyCode;
+        if(key == null || ( key != 8 ))
+        { // return when the key is not backspace key.
+            return false;
+        }
+    }
+    else
+    {
+        return false;
+    }
+
+    if (e.srcElement) 
+    { // in IE
+        tag = e.srcElement.tagName.toUpperCase();
+        type = e.srcElement.type;
+        if( type == null)
+        { // Type is null means the mouse focus on a non-form field. disable backspace button
+            return true;
+        }
+        else
+        {
+            type = e.srcElement.type.toUpperCase();
+        }
+    }
+    else
+    { // in FF
+        tag = e.target.nodeName.toUpperCase();
+        type = (e.target.type) ? e.target.type.toUpperCase() : "";
+    }
+
+
+
+    // we don't want to cancel the keypress (ever) if we are in an input/text area
+    if ( tag == 'INPUT' || type == 'TEXT' || type == 'TEXTAREA')
+    {
+        if( ((tag == 'INPUT' && type == 'RADIO') || (tag == 'INPUT' && type == 'CHECKBOX')) && (key == 8 ) )
+        {
+            return true; // the mouse is on the radio button/checkbox, disbale the backspace button
+        }
+        return false;
+    }
+
+    // if we are not in one of the above things, then we want to cancel (true) if backspace
+    return (key == 8 );
+} 
+
+function shouldCancelCopyPaste(event) 
+{
+  var pressedKey = String.fromCharCode(event.keyCode).toLowerCase();   
+	
+    var key;
+    if(event)
+    {
+        key = event.which? event.which : event.keyCode;
+        if(key == null || !(event.ctrlKey && (pressedKey == "c" ||  pressedKey == "v" || pressedKey == "n")))
+        { // return when the key is not Ctrl + c or Ctrl + v.
+            return false;
+        }
+    }
+    else
+    {
+        return false;
+    }
+
+    if (event.srcElement) 
+    { // in IE
+        tag = event.srcElement.tagName.toUpperCase();
+        type = event.srcElement.type;
+        if( type == null)
+        { // Type is null means the mouse focus on a non-form field. disable ctrl + c and ctrl + v button
+            return true;
+        }
+        else
+        {
+            type = event.srcElement.type.toUpperCase();
+        }
+    }
+    else
+    { // in FF
+        tag = event.target.nodeName.toUpperCase();
+        type = (event.target.type) ? event.target.type.toUpperCase() : "";
+    }
+
+
+
+    // we don't want to cancel the keypress (ever) if we are in an input/text area
+    if ( tag == 'INPUT' || type == 'TEXT' || type == 'TEXTAREA')
+    {
+        if( ((tag == 'INPUT' && type == 'RADIO') || (tag == 'INPUT' && type == 'CHECKBOX')) && (event.ctrlKey && (pressedKey == "c" ||  pressedKey == "v" || pressedKey == "n")) )
+        {
+            return true; // the mouse is on the radio button/checkbox, disbale the ctrl + c and ctrl + v
+        }
+        return false;
+    }
+
+    // if we are not in one of the above things, then we want to cancel (true) if the ctrl + c and ctrl + v
+    return (event.ctrlKey && (pressedKey == "c" ||  pressedKey == "v" || pressedKey == "n"));
+} 
+
+function shouldCancelEscape(event)
+{ 
+    if (event.srcElement) 
+    { // in IE
+        tag = event.srcElement.tagName.toUpperCase();
+        type = event.srcElement.type;
+        if( type == null)
+        { // Type is null means the mouse focus on a non-form field. disable ctrl + c and ctrl + v button
+            return true;
+        }
+        else
+        {
+            type = event.srcElement.type.toUpperCase();
+        }
+    }
+    else
+    { // in FF
+        tag = event.target.nodeName.toUpperCase();
+        type = (event.target.type) ? event.target.type.toUpperCase() : "";
+    }
+
+
+
+    // we don't want to cancel the keypress (ever) if we are in an input/text area
+    if ( tag == 'INPUT' || type == 'TEXT' || type == 'TEXTAREA')
+    {
+        if( ((tag == 'INPUT' && type == 'RADIO') || (tag == 'INPUT' && type == 'CHECKBOX')) && (event.keyCode == 27) )
+        {
+            return true; // the mouse is on the radio button/checkbox, disbale the ctrl + c and ctrl + v
+        }
+        return false;
+    }
+
+    // if we are not in one of the above things, then we want to cancel (true) if the ctrl + c and ctrl + v
+    return (event.keyCode == 27);
+}
+
+    document.onkeydown = function() 
+    {   
+   
+    	// disbale Cntrl+C and Cntrl+v and Cntrl+n
+    	
+	    var pressedKey = String.fromCharCode(event.keyCode).toLowerCase();   
+	    if (event.ctrlKey && (pressedKey == "c" ||  pressedKey == "v"))
+        {
+            return false; 
+            //Uncomment the below line to disable copy paste inseide text area.
+	       // return !shouldCancelCopyPaste(event); 
+	    } 
+	    
+	      if (event.ctrlKey && (pressedKey != "c"  &&  pressedKey != "v"))
+        {
+	        return false; 
+	    } 
+//  
+        
+        //Disable Backspace
+        if(event.keyCode == 8)
+        {
+         return !shouldCancelbackspace(event);
+         }
+         
+         if(event.keyCode == 27)
+        {
+         return shouldCancelEscape(event);
+         }
+          
+         //disable printscreen
+         if(event.keyCode ==44)
+         {
+            return false;
+         }
+         
+    }
+
+
+
+/*----------------------------------Code to disable BACKSPACE button End----------------------------------*/
+            
+ </script>  
+ 
+ <!-- Code to check if javascript is disabled, redirect to error page -->
+ <noscript>
+<p>
+<meta http-equiv="REFRESH" content="0;url=../JavascriptError.htm" />
+</p>
+
+ </noscript>
+ <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+ 
+     
+ <table style="padding-top : 0px; text-align:center" cellpadding="0px" cellspacing="0px" width="920px" bgcolor="white">
+    <tbody><tr width="920px" style=" padding-bottom : 0px; margin-bottom : 0px;" height="129px" align="center">
+      <td colspan="2" style="padding-top : 5px;" height="139px" valign="top" width="920px" align="right" background="Question%20Paper%20ritesh_files/header.JPG">
+    
+</td>
+    </tr>
+     <tr style=" padding-top : 0px; margin-top : 0px;" valign="top">
+         <td class="welcome" style="border-bottom : solid 2px #000000;" height="35px" valign="middle" width="820px" align="left">
+               <table cellpadding="4px" cellspacing="0px" width="820px"><tbody><tr>
+               <td style="border-right : solid 1px #000000;" width="310px">
+               <span id="ctl00_lblWelcome" style="display:inline-block;font-family:Verdana;font-size:11px;font-weight:bold;height:20px;">Welcome Ritesh Gedam</span>
+              </td>
+               <td style="border-right : solid 1px #000000;border-left : solid 1px #000000; " class="style1">
+               <span id="ctl00_lblExamInstanceID" style="display:inline-block;font-family:Verdana;font-size:11px;font-weight:bold;height:20px;">ExamInstance Id : 2073983</span>
+              </td>
+              <td style="border-left : solid 1px #000000;" width="360px">
+               <span id="ctl00_lblExam" style="display:inline-block;font-family:Verdana;font-size:11px;font-weight:bold;height:20px;"> Exam : HP UFT</span>
+               </td></tr></tbody></table> 
+          </td>
+    <td class="timerBg" style="border-left : solid 1px #000000; border-bottom : solid 2px #000000; padding-right : 2px;" valign="baseline" width="100px" align="right">
+   <img id="ctl00_imgClock" src="Question%20Paper%20ritesh_files/StopWatch_GIF.gif" style="height:38px;width:32px;border-width:0px;">
+   <span id="ctl00_ExamRemainingTime" style="display:inline-block;color:White;font-family:Verdana;font-size:11px;font-weight:bold;height:25px;width:50px;">07:06</span>      
+    </td>
+    </tr>     
+    <tr height="550px">
+    <td colspan="2" class="bodytext" valign="top" width="920px" align="center">
+        
+    <table cellpadding="0px" cellspacing="0px" width="100%">
+<tbody><tr valign="top">
+<td class="sectionBg" colspan="2" height="25px" valign="middle">
+ &nbsp; &nbsp;<span id="ctl00_contentExam_Label1" style="font-family:Verdana;font-size:11px;font-weight:bold;">Section: </span>
+    <span id="ctl00_contentExam_lblSectionDescr" style="font-family:Verdana;font-size:11px;font-weight:bold;">HP UFT</span>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<table>
+<tbody><tr>
+<td colspan="2" style="border : solid 1px #5ab0d6; padding : 1px" width="850px" align="center">
+<div id="ctl00_contentExam_pnl_QuesPaper" style="width:850px;">
+	
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85304_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.1</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85304_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85304_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">What are the Trigger events in Recovery Scenario ?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85304_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85304_rblOptions_0" name="ctl00$contentExam$usrCntrl85304$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85304_rblOptions_0">Pop up Window</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85304_rblOptions_1" name="ctl00$contentExam$usrCntrl85304$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85304_rblOptions_1">Object state</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85304_rblOptions_2" name="ctl00$contentExam$usrCntrl85304$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85304_rblOptions_2">Test run error</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85304_rblOptions_3" name="ctl00$contentExam$usrCntrl85304$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85304_rblOptions_3">Application crash</label></td>
+	</tr><tr>
+		<td class="Nolbl">5. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85304_rblOptions_4" name="ctl00$contentExam$usrCntrl85304$rblOptions" value="5" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85304_rblOptions_4">ALL</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85307_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.2</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85307_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85307_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">What are the different types of status of test result</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85307_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85307_rblOptions_0" name="ctl00$contentExam$usrCntrl85307$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85307_rblOptions_0">Pass</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85307_rblOptions_1" name="ctl00$contentExam$usrCntrl85307$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85307_rblOptions_1">Fail</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85307_rblOptions_2" name="ctl00$contentExam$usrCntrl85307$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85307_rblOptions_2">Done</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85307_rblOptions_3" name="ctl00$contentExam$usrCntrl85307$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85307_rblOptions_3">Warning</label></td>
+	</tr><tr>
+		<td class="Nolbl">5. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85307_rblOptions_4" name="ctl00$contentExam$usrCntrl85307$rblOptions" value="5" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85307_rblOptions_4">All</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85313_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.3</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85313_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85313_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">In UFT, _______contains each step as a VBScript line. </span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85313_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85313_rblOptions_0" name="ctl00$contentExam$usrCntrl85313$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85313_rblOptions_0">Document tabs</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85313_rblOptions_1" name="ctl00$contentExam$usrCntrl85313$rblOptions" value="2" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85313_rblOptions_1">Expert View</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85313_rblOptions_2" name="ctl00$contentExam$usrCntrl85313$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85313_rblOptions_2">Keyword View</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85313_rblOptions_3" name="ctl00$contentExam$usrCntrl85313$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85313_rblOptions_3">Test</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85315_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.4</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85315_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85315_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">The Debug Viewer pane contains the ________tab<br></span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85315_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85315_rblOptions_0" name="ctl00$contentExam$usrCntrl85315$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85315_rblOptions_0">Watch</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85315_rblOptions_1" name="ctl00$contentExam$usrCntrl85315$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85315_rblOptions_1">Variables</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85315_rblOptions_2" name="ctl00$contentExam$usrCntrl85315$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85315_rblOptions_2">Command</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85315_rblOptions_3" name="ctl00$contentExam$usrCntrl85315$rblOptions" value="4" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85315_rblOptions_3">All</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85317_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.5</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85317_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85317_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">what is the logical unit in your test that focuses on testing a particular part of your application ?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85317_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85317_rblOptions_0" name="ctl00$contentExam$usrCntrl85317$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85317_rblOptions_0">Action</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85317_rblOptions_1" name="ctl00$contentExam$usrCntrl85317$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85317_rblOptions_1">Test</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85317_rblOptions_2" name="ctl00$contentExam$usrCntrl85317$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85317_rblOptions_2">Function</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85317_rblOptions_3" name="ctl00$contentExam$usrCntrl85317$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85317_rblOptions_3">None</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85318_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.6</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85318_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85318_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">________are created and maintained during a Test run session by the object creator</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85318_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85318_rblOptions_0" name="ctl00$contentExam$usrCntrl85318$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85318_rblOptions_0">Container objects</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85318_rblOptions_1" name="ctl00$contentExam$usrCntrl85318$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85318_rblOptions_1">Test Objects</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input checked="checked" tabindex="0" id="ctl00_contentExam_usrCntrl85318_rblOptions_2" name="ctl00$contentExam$usrCntrl85318$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85318_rblOptions_2">Run-Time Objects</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85318_rblOptions_3" name="ctl00$contentExam$usrCntrl85318$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85318_rblOptions_3">Checkpoint objects</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85327_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.7</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85327_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85327_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">Which of the following syntax is correct ?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85327_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85327_rblOptions_0" name="ctl00$contentExam$usrCntrl85327$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85327_rblOptions_0">GetROProperty("innertext")</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85327_rblOptions_1" name="ctl00$contentExam$usrCntrl85327$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85327_rblOptions_1">GetTOProp.("innertext")</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85327_rblOptions_2" name="ctl00$contentExam$usrCntrl85327$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85327_rblOptions_2">GetVisible("innertext")</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85327_rblOptions_3" name="ctl00$contentExam$usrCntrl85327$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85327_rblOptions_3">GetText("innertext")</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85328_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.8</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85328_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85328_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">Which of the following is correct ?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85328_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85328_rblOptions_0" name="ctl00$contentExam$usrCntrl85328$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85328_rblOptions_0">Datatable("FlyFrom")</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85328_rblOptions_1" name="ctl00$contentExam$usrCntrl85328$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85328_rblOptions_1">Datatable.Value("FlyFrom")</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85328_rblOptions_2" name="ctl00$contentExam$usrCntrl85328$rblOptions" value="3" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85328_rblOptions_2">Datatable.Value("FlyFrom", 1)</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85328_rblOptions_3" name="ctl00$contentExam$usrCntrl85328$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85328_rblOptions_3">Datatable("FlyFrom", 1)</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85329_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.9</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85329_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85329_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">_______statement is useful to stop test execution</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85329_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85329_rblOptions_0" name="ctl00$contentExam$usrCntrl85329$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85329_rblOptions_0">Exit Action</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85329_rblOptions_1" name="ctl00$contentExam$usrCntrl85329$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85329_rblOptions_1">Exit For</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85329_rblOptions_2" name="ctl00$contentExam$usrCntrl85329$rblOptions" value="3" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85329_rblOptions_2">ExitTest</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85329_rblOptions_3" name="ctl00$contentExam$usrCntrl85329$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85329_rblOptions_3">Exit</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85333_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.10</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85333_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85333_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">In HP UFT, the short cut keys for Run, Stop and Record respectively are:</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85333_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85333_rblOptions_0" name="ctl00$contentExam$usrCntrl85333$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85333_rblOptions_0">F5, F4, F6</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85333_rblOptions_1" name="ctl00$contentExam$usrCntrl85333$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85333_rblOptions_1">F4, F6, F5</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85333_rblOptions_2" name="ctl00$contentExam$usrCntrl85333$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85333_rblOptions_2">F4, F5, F6</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85333_rblOptions_3" name="ctl00$contentExam$usrCntrl85333$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85333_rblOptions_3">F6, F5, F4</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85336_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.11</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85336_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85336_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">If we cannot find any object that matches the 
+description, or if it finds more than one object that matches, UFT may 
+use the __________ mechanism to identify the object.</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85336_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85336_rblOptions_0" name="ctl00$contentExam$usrCntrl85336$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85336_rblOptions_0">Ordinal Identifier</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85336_rblOptions_1" name="ctl00$contentExam$usrCntrl85336$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85336_rblOptions_1">Mandatory Properties</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85336_rblOptions_2" name="ctl00$contentExam$usrCntrl85336$rblOptions" value="3" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85336_rblOptions_2">Smart Identification</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85336_rblOptions_3" name="ctl00$contentExam$usrCntrl85336$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85336_rblOptions_3">Assistive Properties</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85343_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.12</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85343_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85343_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">A local object repository stores objects in a file 
+that is associated with one specific action, so that only that action 
+can access the stored objects.</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85343_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85343_rblOptions_0" name="ctl00$contentExam$usrCntrl85343$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85343_rblOptions_0">TRUE</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85343_rblOptions_1" name="ctl00$contentExam$usrCntrl85343$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85343_rblOptions_1">FALSE</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85345_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.13</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85345_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85345_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">If a child object is added to a local object 
+repository, and its parents are in a shared object repository, its 
+parents are automatically added to the local object repository.</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85345_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85345_rblOptions_0" name="ctl00$contentExam$usrCntrl85345$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85345_rblOptions_0">TRUE</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85345_rblOptions_1" name="ctl00$contentExam$usrCntrl85345$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85345_rblOptions_1">FALSE</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85347_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.14</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85347_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85347_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">MyDouble = 2345.5678<br>MyInt = CInt(MyDouble)<br><br>What will be the value in "MyInt"?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85347_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85347_rblOptions_0" name="ctl00$contentExam$usrCntrl85347$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85347_rblOptions_0">2345.56</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85347_rblOptions_1" name="ctl00$contentExam$usrCntrl85347$rblOptions" value="2" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85347_rblOptions_1">2346</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85347_rblOptions_2" name="ctl00$contentExam$usrCntrl85347$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85347_rblOptions_2">23455678</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85347_rblOptions_3" name="ctl00$contentExam$usrCntrl85347$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85347_rblOptions_3">None</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85348_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.15</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85348_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85348_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">Desktop.RunAnalog "Track1"<br><br>For which scenario, the above script will be generated by QTP ?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85348_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85348_rblOptions_0" name="ctl00$contentExam$usrCntrl85348$rblOptions" value="1" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85348_rblOptions_0">Analog Recording Mode-Window level</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85348_rblOptions_1" name="ctl00$contentExam$usrCntrl85348$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85348_rblOptions_1">Analog Recording Mode-Screen level</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85348_rblOptions_2" name="ctl00$contentExam$usrCntrl85348$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85348_rblOptions_2">Analog Recording</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85348_rblOptions_3" name="ctl00$contentExam$usrCntrl85348$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85348_rblOptions_3">Low-level Recording</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85353_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.16</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85353_Questiontd" bgcolor="#e9e9e9">
+<span id="ctl00_contentExam_usrCntrl85353_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">Select INVALID checkpoint type</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85353_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85353_rblOptions_0" name="ctl00$contentExam$usrCntrl85353$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85353_rblOptions_0">Page Checkpoint</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85353_rblOptions_1" name="ctl00$contentExam$usrCntrl85353$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85353_rblOptions_1">Accessibility Checkpoint</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input checked="checked" tabindex="0" id="ctl00_contentExam_usrCntrl85353_rblOptions_2" name="ctl00$contentExam$usrCntrl85353$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85353_rblOptions_2">Object Checkpoint</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85353_rblOptions_3" name="ctl00$contentExam$usrCntrl85353$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85353_rblOptions_3">XML Checkpoint</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85357_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.17</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85357_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85357_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">Text output value:<br>a)&nbsp;&nbsp;Outputs property value of any object<br>b)&nbsp;&nbsp;Outputs text string appearing in AUT<br>c)&nbsp;&nbsp;Outputs part of displayed text appearing in AUT</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85357_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85357_rblOptions_0" name="ctl00$contentExam$usrCntrl85357$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85357_rblOptions_0">Only a</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85357_rblOptions_1" name="ctl00$contentExam$usrCntrl85357$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85357_rblOptions_1">Only b</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85357_rblOptions_2" name="ctl00$contentExam$usrCntrl85357$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85357_rblOptions_2">Only c</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85357_rblOptions_3" name="ctl00$contentExam$usrCntrl85357$rblOptions" value="4" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85357_rblOptions_3">Both b &amp; c</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85359_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.18</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85359_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85359_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">We can associate a function library to a test through</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85359_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85359_rblOptions_0" name="ctl00$contentExam$usrCntrl85359$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85359_rblOptions_0">Run Options</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85359_rblOptions_1" name="ctl00$contentExam$usrCntrl85359$rblOptions" value="2" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85359_rblOptions_1">Test Settings</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85359_rblOptions_2" name="ctl00$contentExam$usrCntrl85359$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85359_rblOptions_2">View Options</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85359_rblOptions_3" name="ctl00$contentExam$usrCntrl85359$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85359_rblOptions_3">Function Definition Generator</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85362_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.19</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85362_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85362_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">What does a Breakpoint do?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85362_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85362_rblOptions_0" name="ctl00$contentExam$usrCntrl85362$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85362_rblOptions_0">Stops test execution at the specified step, after executing that step</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85362_rblOptions_1" name="ctl00$contentExam$usrCntrl85362$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85362_rblOptions_1">Stops test execution at the specified step, before executing that step</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85362_rblOptions_2" name="ctl00$contentExam$usrCntrl85362$rblOptions" value="3" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85362_rblOptions_2">Pauses test execution at the specified step, after executing that step</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85362_rblOptions_3" name="ctl00$contentExam$usrCntrl85362$rblOptions" value="4" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85362_rblOptions_3">Pauses test execution at the specified step, before executing that step</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+<table cellpadding="2" width="830px">
+<tbody><tr>
+<td class="lblQuestion" valign="top" width="30px" align="left">
+ <span id="ctl00_contentExam_usrCntrl85363_lblQuesId" style="font-family:Verdana;font-size:11px;font-weight:bold;">Q.20</span>
+ </td>
+<td id="ctl00_contentExam_usrCntrl85363_Questiontd" bgcolor="FFFFE1">
+<span id="ctl00_contentExam_usrCntrl85363_lblQuestionDescr" class="leftPad" style="display:inline-block;width:800px;font-family: Verdana,Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	overflow :inherit ;
+	text-decoration: none;
+	text-align: left;">What does the GetTOProperty method do?</span>
+</td>
+	
+</tr>
+<tr>
+<td colspan="2" align="left">
+
+ <table id="ctl00_contentExam_usrCntrl85363_rblOptions" cellspacing="5" border="0">
+	<tbody><tr>
+		<td class="Nolbl">1. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85363_rblOptions_0" name="ctl00$contentExam$usrCntrl85363$rblOptions" value="1" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85363_rblOptions_0">Retrieves the value of a property from a test object</label></td>
+	</tr><tr>
+		<td class="Nolbl">2. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85363_rblOptions_1" name="ctl00$contentExam$usrCntrl85363$rblOptions" value="2" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85363_rblOptions_1">Retrieves the available properties from a test object</label></td>
+	</tr><tr>
+		<td class="Nolbl">3. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85363_rblOptions_2" name="ctl00$contentExam$usrCntrl85363$rblOptions" value="3" checked="checked" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85363_rblOptions_2">Retrieves the value of a property from a run-time object</label></td>
+	</tr><tr>
+		<td class="Nolbl">4. </td> <td style="vertical-align:top" align="left"><input tabindex="0" id="ctl00_contentExam_usrCntrl85363_rblOptions_3" name="ctl00$contentExam$usrCntrl85363$rblOptions" value="4" type="radio"></td><td class="Nolbl"><label for="ctl00_contentExam_usrCntrl85363_rblOptions_3">Retrieves the available properties from a run-time object</label></td>
+	</tr>
+</tbody></table>
+</td>    
+</tr>
+<tr style="height:15px">
+<td>
+</td>
+</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left">
+   <input tabindex="0" name="ctl00$contentExam$lbPrevious" value="Previous" id="ctl00_contentExam_lbPrevious" class="btnSave" type="submit">
+  &nbsp;
+  <input tabindex="0" name="ctl00$contentExam$lbNext" value="Next" id="ctl00_contentExam_lbNext" class="btnSave" type="submit">
+</td>
+<td align="right">
+<input tabindex="0" name="ctl00$contentExam$btnSave" value="Save" id="ctl00_contentExam_btnSave" class="btnSave" type="submit">
+&nbsp;
+<input tabindex="0" name="ctl00$contentExam$btnHome" value="Home" id="ctl00_contentExam_btnHome" class="btnSave" type="submit">
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+    </td>
+    </tr>
+      <tr>
+    <td class="footer" colspan="2" height="20px">    
+    Best viewed in 1024 x 768 resolution.Use Internet Explorer 6.0 
+Service Pack 1 or above. | © Copyright @ TechMahindra Limited.
+    </td>
+    </tr>
+    </tbody></table>    
+         <input tabindex="0" name="ctl00$btnTimeOutEventRaise" value="" id="ctl00_btnTimeOutEventRaise" class="hidden" style="background-color:White;border-color:White;" type="submit" border="0">
+
+        <input tabindex="0" name="ctl00$btnLastFewMinsAlert" value="" id="ctl00_btnLastFewMinsAlert" class="hidden" style="background-color:White;" type="submit" border="0">
+        
+        
+        <input tabindex="0" name="ctl00$btnSessionSlidingTimeAlert" value="" id="ctl00_btnSessionSlidingTimeAlert" class="hidden" style="background-color:White;" type="submit" border="0">
+        
+      
+     <div id="ctl00_PNL" style="display: none; width: 350px; background-color: White; border-width: 2px; border-color: Black; border-style: solid; position: fixed;">
+	
+                        You have only 5 minutes left to submit your 
+answers. System will automatically submit your answers &amp; close the 
+application at the end of 5 minutes.
+                        <br><br>
+                        <div style="text-align:right;">
+                        <input name="ctl00$ButtonOk" value="OK" id="ctl00_ButtonOk" tabindex="1" class="btnSave" type="submit">
+                              </div>
+                    
+</div>
+<br>
+     <div id="ctl00_Panel1" style="width: 350px; background-color: White; border-width: 2px; border-color: Black; border-style: solid; position: fixed; z-index: 10001; left: 497.5px; top: 287.5px; display: none;">
+	
+                        Your session is about to terminate as there is 
+no activity since last 15 minutes. Please save your data if you want to 
+continue.
+                        <br><br>
+                        <div style="text-align:right;">
+                        <input name="ctl00$btnSessionTimeoutOk" value="OK" id="ctl00_btnSessionTimeoutOk" class="btnSave" type="submit">
+                            
+                        </div>
+                    
+</div>
+                       <input tabindex="0" name="ctl00$hdnTimeRamaining" id="ctl00_hdnTimeRamaining" value="426" type="hidden">
+    <input tabindex="0" name="ctl00$hdnIsExamStarted" id="ctl00_hdnIsExamStarted" value="Yes" type="hidden">
+     
+          
+ 
+    
+            <input tabindex="0" name="ctl00$hdnIsVerified" id="ctl00_hdnIsVerified" value="No" type="hidden">
+     
+          
+ 
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get('ctl00_ScriptManager1_HiddenField').value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","OkControlID":"ctl00_ButtonOk","PopupControlID":"ctl00_PNL","dynamicServicePath":"/examsystem/Examination/ObjectiveQuestionPaper.aspx","id":"ctl00_ModalPopupExtender1"}, null, null, $get("ctl00_btnLastFewMinsAlert"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","OkControlID":"ctl00_btnSessionTimeoutOk","PopupControlID":"ctl00_Panel1","dynamicServicePath":"/examsystem/Examination/ObjectiveQuestionPaper.aspx","id":"ctl00_ModalPopupExtender2"}, null, null, $get("ctl00_btnSessionSlidingTimeAlert"));
+});
+//]]>
+</script>
+<div class="modalBackground" style="display: none; position: fixed; left: 0px; top: 0px;" id="ctl00_ModalPopupExtender1_backgroundElement"></div><div class="modalBackground" style="position: fixed; left: 0px; top: 0px; z-index: 10000; width: 1349px; height: 3276px; display: none;" id="ctl00_ModalPopupExtender2_backgroundElement"></div></form>
+
+
+</body></html>
